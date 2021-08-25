@@ -3,7 +3,7 @@ from telegram.ext import Updater
 from telegram.ext import CommandHandler
 from coinbase import new_list
 
-telegram_bot_token = "1946817442:AAEDoe8iVWsteUv2ctTxssBQgN9l67VlJ_w"
+telegram_bot_token = ""
 
 updater = Updater(token=telegram_bot_token, use_context=True)
 dispatcher = updater.dispatcher
