@@ -1,9 +1,6 @@
 # import os
 # from binance.client import Client
 
-# api_key = '8cS37kWxlRmLuDXycpUyBGN0kcagyN1Em59JfJNBxDWJrwdOf0vwIJxqCcpvE6G6'
-# api_secret = 'KP0OL8We8oM2KH9KqNsLvsPoD0un97tL3RivcDofdIpzXmdsNhw5qn4Q6sHjpt6N'
-
 # client = Client(api_key, api_secret)
 
 # client.API_URL = 'https://api.binance.com/api/v3/exchangeInfo'
